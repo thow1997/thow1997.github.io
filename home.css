@@ -12,7 +12,7 @@ body {
     height: 100vh;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 26% 10% 52% 12%;
+    grid-template-rows: 28% 10% 50% 12%;
 }
 
 header {
